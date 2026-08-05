@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=190&section=header&text=Seonkwon%20Kim&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Psychology%20%C3%97%20Brain%20Science%20%C3%97%20Data%20Science&descSize=17&descAlignY=76" alt="header" />
 
   <a href="https://github.com/ll3i">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Seonkwon+Kim+(%40ll3i);AI+Agent+%C2%B7+RAG+%C2%B7+Data+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Seonkwon+Kim+(%40ll3i);AI+Engineer+%C2%B7+AI+Agent+%C2%B7+RAG+%C2%B7+Data+Science" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,8 +10,9 @@
 
 > 사람의 마음을 공부하다가, 사람을 이해하는 AI를 만드는 일에 빠졌습니다.
 
+- 💼 **AI Engineer** 재직 중 (2026.06 ~ )
 - 🎓 **Hanyang University** — Psychology & Brain Science, School of Data Science
-- 🐍 **SSAFY 15기 (Python 트랙)** 수료 중
+- 🐍 **SSAFY 15기 (Python 트랙)** 수료
 - 🤖 **AI 에이전트, RAG, 데이터 분석**을 중심으로 프로젝트를 만들고 있습니다
 - 🏆 공정위 AI·데이터 활용 공모전, 한양대×현대엔지비 해커톤, 2024 DCC 등 **공모전·해커톤 실전 위주**로 학습합니다
 - 🛠️ 검색·생성 파이프라인 직접 구현부터 웹 서비스 배포까지, **엔드투엔드로 완성하는 것**을 좋아합니다
@@ -99,7 +100,8 @@
 
 ## 🏆 Activities
 
-- **SSAFY 15기 (Python 트랙)** 수료 중
+- **AI Engineer** 재직 중 (2026.06 ~ )
+- **SSAFY 15기 (Python 트랙)** 수료
 - **제2회 공정위 AI·데이터 활용 공모전** Track 2 출품 — IssueTrace-RAG
 - **한양대×현대엔지비 산업체 해커톤** — 제조공정 이미지 분류 AI Agent (리더보드 0.76)
 - **2024 데이터 크리에이터 캠프(DCC)** — 패션 스타일 분류·추천 (팀 어셈블)
