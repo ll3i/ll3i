@@ -8,15 +8,14 @@
 
 ## 🙋‍♂️ About Me
 
-> 사람의 마음을 공부하다가, 사람을 이해하는 AI를 만드는 일에 빠졌습니다.
+한양대에서 심리뇌과학과 데이터사이언스를 공부했고, 지금은 AI 엔지니어로 일하고 있습니다.
+요즘은 주로 LLM 에이전트와 RAG를 만들고, 공모전이나 해커톤에 나가서 직접 부딪히며 배우는 편입니다.
 
-- 💼 **AI Engineer** 재직 중 (2026.06 ~ )
-- 🎓 **Hanyang University** — Psychology & Brain Science, School of Data Science
-- 🐍 **SSAFY 15기 (Python 트랙)** 수료
-- 🤖 **AI 에이전트, RAG, 데이터 분석**을 중심으로 프로젝트를 만들고 있습니다
-- 🏆 **2024 환경 데이터 활용 및 분석 공모전 대상**, **현대엔지비 AI Agent 해커톤 이그노벨상**, **한양대 졸업프로젝트 장려상** 수상 · 공정위 AI·데이터 활용 공모전, 2024 DCC 등 **공모전·해커톤 실전 위주**로 학습합니다
-- 🛠️ 검색·생성 파이프라인 직접 구현부터 웹 서비스 배포까지, **엔드투엔드로 완성하는 것**을 좋아합니다
-- 📫 Contact: [asdf4596@hanyang.ac.kr](mailto:asdf4596@hanyang.ac.kr)
+- 💼 AI Engineer (2026.06 ~)
+- 🎓 한양대학교 심리뇌과학과 · 데이터사이언스학부
+- 🐍 SSAFY 15기 Python 트랙 수료
+- 🏆 환경데이터 분석 공모전 대상, 현대엔지비 AI Agent 해커톤 이그노벨상, 한양대 졸업프로젝트 장려상
+- 📫 [asdf4596@hanyang.ac.kr](mailto:asdf4596@hanyang.ac.kr)
 
 ## 🔍 Interests
 
