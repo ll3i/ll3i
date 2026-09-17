@@ -14,7 +14,7 @@
 - 🎓 **Hanyang University** — Psychology & Brain Science, School of Data Science
 - 🐍 **SSAFY 15기 (Python 트랙)** 수료
 - 🤖 **AI 에이전트, RAG, 데이터 분석**을 중심으로 프로젝트를 만들고 있습니다
-- 🏆 공정위 AI·데이터 활용 공모전, 한양대×현대엔지비 해커톤, 2024 DCC 등 **공모전·해커톤 실전 위주**로 학습합니다
+- 🏆 **2024 환경 데이터 활용 및 분석 공모전 대상**, 공정위 AI·데이터 활용 공모전, 한양대×현대엔지비 해커톤, 2024 DCC 등 **공모전·해커톤 실전 위주**로 학습합니다
 - 🛠️ 검색·생성 파이프라인 직접 구현부터 웹 서비스 배포까지, **엔드투엔드로 완성하는 것**을 좋아합니다
 - 📫 Contact: [asdf4596@hanyang.ac.kr](mailto:asdf4596@hanyang.ac.kr)
 
@@ -86,6 +86,7 @@
 | [**NextDir-NAN2026**](https://github.com/ll3i/NextDir-NAN2026) | 규칙 기반 AI Director(state machine + budget + memory)가 난이도와 연출을 실시간 지휘하는 HTML5 Canvas 로그라이크 게임. Playwright 자동 플레이테스트·데모 녹화·PDF 생성까지 제출 파이프라인 자동화 (NHN NAN 2026 사전과제) | Vanilla JS · HTML5 Canvas · Node.js · Playwright · Python |
 | [**pitshare-landing**](https://github.com/ll3i/pitshare-landing) | P2P 운동장비 구독 플랫폼 '핏쉐어'의 반응형 랜딩페이지. 정적 빌드로 GitHub Pages 배포 완료 | Next.js 15 · React 19 · TypeScript · Tailwind CSS 4 |
 | [**FashionData**](https://github.com/ll3i/FashionData) | ResNet-18 패션 스타일·성별 이미지 분류 + User/Item-based 협업 필터링 추천 파이프라인 (2024 데이터 크리에이터 캠프) | Python · PyTorch · scikit-learn · Jupyter |
+| [**env-data-recycling-ml-2024**](https://github.com/ll3i/env-data-recycling-ml-2024) | 🏆 **대상** — 전국 시군구 재활용률을 K-means로 지역 유형화하고 XGBoost(MAE 3.55%p)로 예측, 우수 지역 수거 정책을 이식하는 모방 시뮬레이션으로 품목별·지역별 맞춤 재활용 정책 제안 (2024 환경 데이터 활용 및 분석 공모전, 팀 S.S.E) | Python · pandas · scikit-learn · XGBoost · Seaborn |
 
 <details>
 <summary><b>More Projects</b></summary>
@@ -102,6 +103,7 @@
 
 - **AI Engineer** 재직 중 (2026.06 ~ )
 - **SSAFY 15기 (Python 트랙)** 수료
+- 🏆 **2024 환경 데이터 활용 및 분석 공모전 대상** — 머신러닝 기반 품목별·지역별 재활용 솔루션 제안 (팀 S.S.E)
 - **제2회 공정위 AI·데이터 활용 공모전** Track 2 출품 — IssueTrace-RAG
 - **한양대×현대엔지비 산업체 해커톤** — 제조공정 이미지 분류 AI Agent (리더보드 0.76)
 - **2024 데이터 크리에이터 캠프(DCC)** — 패션 스타일 분류·추천 (팀 어셈블)
