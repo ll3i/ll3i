@@ -14,7 +14,7 @@
 - 🎓 **Hanyang University** — Psychology & Brain Science, School of Data Science
 - 🐍 **SSAFY 15기 (Python 트랙)** 수료
 - 🤖 **AI 에이전트, RAG, 데이터 분석**을 중심으로 프로젝트를 만들고 있습니다
-- 🏆 **2024 환경 데이터 활용 및 분석 공모전 대상**, 공정위 AI·데이터 활용 공모전, 한양대×현대엔지비 해커톤, 2024 DCC 등 **공모전·해커톤 실전 위주**로 학습합니다
+- 🏆 **2024 환경 데이터 활용 및 분석 공모전 대상**, **현대엔지비 AI Agent 해커톤 이그노벨상**, **한양대 졸업프로젝트 장려상** 수상 · 공정위 AI·데이터 활용 공모전, 2024 DCC 등 **공모전·해커톤 실전 위주**로 학습합니다
 - 🛠️ 검색·생성 파이프라인 직접 구현부터 웹 서비스 배포까지, **엔드투엔드로 완성하는 것**을 좋아합니다
 - 📫 Contact: [asdf4596@hanyang.ac.kr](mailto:asdf4596@hanyang.ac.kr)
 
@@ -81,8 +81,8 @@
 | 프로젝트 | 한 줄 소개 | 핵심 기술 |
 | --- | --- | --- |
 | [**IssueTrace-RAG**](https://github.com/ll3i/IssueTrace-RAG) | 공정거래위원회 의결서 대상 BM25+Dense 하이브리드 검색 · RRF · 리랭킹 기반 근거 답변 RAG 시스템. API/로컬 LLM(Qwen2.5-7B) 이중 모드와 완전 오프라인 Docker 제출 이미지까지 구축 (제2회 공정위 AI·데이터 활용 공모전 Track 2) | Python · FastAPI · rank-bm25 · Upstage Solar · Transformers · Docker |
-| [**AI_AGENT**](https://github.com/ll3i/AI_AGENT) | 반도체 소자 이미지를 3개 시점 Vision Agent로 분석하고 CoVe·CRITIC 자기검증으로 정상/불량을 판정하는 멀티 에이전트 검사 시스템. Streamlit Cloud에 실제 배포 <br/><sub>전신: [ai_agent_h](https://github.com/ll3i/ai_agent_h) (한양대×현대엔지비 해커톤, 리더보드 0.76)</sub> | Python · OpenAI Vision · Streamlit · Pandas |
-| [**Pixie**](https://github.com/ll3i/pixie-) | 멀티에이전트 LLM 체인 + RAG(FAISS·KoSBERT) + ARIMA-X 주가 예측을 결합한 한국 주식 개인화 투자 어드바이저 웹 서비스 <br/><sub>같은 계열: [pixie-investment](https://github.com/ll3i/pixie-investment) · [InvestAI](https://github.com/ll3i/InvestAI)</sub> | Python · Flask · OpenAI API · FAISS · statsmodels · Supabase |
+| [**AI_AGENT**](https://github.com/ll3i/AI_AGENT) | 반도체 소자 이미지를 3개 시점 Vision Agent로 분석하고 CoVe·CRITIC 자기검증으로 정상/불량을 판정하는 멀티 에이전트 검사 시스템. Streamlit Cloud에 실제 배포 <br/><sub>전신: [ai_agent_h](https://github.com/ll3i/ai_agent_h) (한양대×현대엔지비 AI Agent 해커톤 이그노벨상, 리더보드 0.76)</sub> | Python · OpenAI Vision · Streamlit · Pandas |
+| [**Pixie**](https://github.com/ll3i/pixie-) | 멀티에이전트 LLM 체인 + RAG(FAISS·KoSBERT) + ARIMA-X 주가 예측을 결합한 한국 주식 개인화 투자 어드바이저 웹 서비스 (🎖️ 한양대 졸업프로젝트 장려상) <br/><sub>같은 계열: [pixie-investment](https://github.com/ll3i/pixie-investment) · [InvestAI](https://github.com/ll3i/InvestAI)</sub> | Python · Flask · OpenAI API · FAISS · statsmodels · Supabase |
 | [**NextDir-NAN2026**](https://github.com/ll3i/NextDir-NAN2026) | 규칙 기반 AI Director(state machine + budget + memory)가 난이도와 연출을 실시간 지휘하는 HTML5 Canvas 로그라이크 게임. Playwright 자동 플레이테스트·데모 녹화·PDF 생성까지 제출 파이프라인 자동화 (NHN NAN 2026 사전과제) | Vanilla JS · HTML5 Canvas · Node.js · Playwright · Python |
 | [**pitshare-landing**](https://github.com/ll3i/pitshare-landing) | P2P 운동장비 구독 플랫폼 '핏쉐어'의 반응형 랜딩페이지. 정적 빌드로 GitHub Pages 배포 완료 | Next.js 15 · React 19 · TypeScript · Tailwind CSS 4 |
 | [**FashionData**](https://github.com/ll3i/FashionData) | ResNet-18 패션 스타일·성별 이미지 분류 + User/Item-based 협업 필터링 추천 파이프라인 (2024 데이터 크리에이터 캠프) | Python · PyTorch · scikit-learn · Jupyter |
@@ -99,13 +99,20 @@
 
 </details>
 
-## 🏆 Activities
+## 🏆 Awards
+
+| 수상 | 대회 | 프로젝트 |
+| --- | --- | --- |
+| 🥇 **대상** | 2024 환경 데이터 활용 및 분석 공모전 | [env-data-recycling-ml-2024](https://github.com/ll3i/env-data-recycling-ml-2024) — 머신러닝 기반 품목별·지역별 재활용 솔루션 제안 (팀 S.S.E) |
+| 🏅 **이그노벨상** | 한양대 × 현대엔지비 산업AI 인재양성 부트캠프 AI Agent 해커톤 (2026.01) | [ai_agent_h](https://github.com/ll3i/ai_agent_h) — 제조공정 IC 불량 분류 AI Agent (팀 Sugarlux) |
+| 🎖️ **장려상** | 한양대학교 데이터사이언스학부 2025학년도 졸업프로젝트 발표회 (2025.12) | [pixie-](https://github.com/ll3i/pixie-) — Pixie: AI-Agent Personalized Investment Service |
+
+## 🧭 Activities
 
 - **AI Engineer** 재직 중 (2026.06 ~ )
 - **SSAFY 15기 (Python 트랙)** 수료
-- 🏆 **2024 환경 데이터 활용 및 분석 공모전 대상** — 머신러닝 기반 품목별·지역별 재활용 솔루션 제안 (팀 S.S.E)
 - **제2회 공정위 AI·데이터 활용 공모전** Track 2 출품 — IssueTrace-RAG
-- **한양대×현대엔지비 산업체 해커톤** — 제조공정 이미지 분류 AI Agent (리더보드 0.76)
+- **한양대×현대엔지비 산업AI 부트캠프 AI Agent 해커톤** — 제조공정 이미지 분류 AI Agent, **이그노벨상** (리더보드 0.76)
 - **2024 데이터 크리에이터 캠프(DCC)** — 패션 스타일 분류·추천 (팀 어셈블)
 - **NHN NAN 2026** 사전과제 — 디렉터 루프 (Director Loop)
 - **서대문구 청년벤처 육성사업** 지원 — Figgle (팀 Co:Re)
